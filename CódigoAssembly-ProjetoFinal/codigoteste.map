@@ -1,0 +1,54 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Wed Oct 28 13:42:13 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x000136
+.config_2007_CODIGOTESTE.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x00009e      
+                            0x002007    0x002007      
+            157 out of 8454 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+            ATIVAPEDESTRE   0x000063    program     static C:\Users\wturq\Desktop\UTFPR\4-Semestre\Microcontroladores\ProjetoFinal\CódigoAssembly-ProjetoFinal\codigoteste.asm
+                DELAY100M   0x000094    program     static C:\Users\wturq\Desktop\UTFPR\4-Semestre\Microcontroladores\ProjetoFinal\CódigoAssembly-ProjetoFinal\codigoteste.asm
+                  DELAY5S   0x000084    program     static C:\Users\wturq\Desktop\UTFPR\4-Semestre\Microcontroladores\ProjetoFinal\CódigoAssembly-ProjetoFinal\codigoteste.asm
+              DELAY5SLOOP   0x00008a    program     static C:\Users\wturq\Desktop\UTFPR\4-Semestre\Microcontroladores\ProjetoFinal\CódigoAssembly-ProjetoFinal\codigoteste.asm
+                DELAYLOOP   0x000098    program     static C:\Users\wturq\Desktop\UTFPR\4-Semestre\Microcontroladores\ProjetoFinal\CódigoAssembly-ProjetoFinal\codigoteste.asm
+                 EXIT_ISR   0x00000b    program     static C:\Users\wturq\Desktop\UTFPR\4-Semestre\Microcontroladores\ProjetoFinal\CódigoAssembly-ProjetoFinal\codigoteste.asm
+                  LOOPING   0x000024    program     static C:\Users\wturq\Desktop\UTFPR\4-Semestre\Microcontroladores\ProjetoFinal\CódigoAssembly-ProjetoFinal\codigoteste.asm
+             LOOPPEDESTRE   0x00006f    program     static C:\Users\wturq\Desktop\UTFPR\4-Semestre\Microcontroladores\ProjetoFinal\CódigoAssembly-ProjetoFinal\codigoteste.asm
+                     MAIN   0x000012    program     static C:\Users\wturq\Desktop\UTFPR\4-Semestre\Microcontroladores\ProjetoFinal\CódigoAssembly-ProjetoFinal\codigoteste.asm
+             TUDOVERMELHO   0x000057    program     static C:\Users\wturq\Desktop\UTFPR\4-Semestre\Microcontroladores\ProjetoFinal\CódigoAssembly-ProjetoFinal\codigoteste.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                 EXIT_ISR   0x00000b    program     static C:\Users\wturq\Desktop\UTFPR\4-Semestre\Microcontroladores\ProjetoFinal\CódigoAssembly-ProjetoFinal\codigoteste.asm
+                     MAIN   0x000012    program     static C:\Users\wturq\Desktop\UTFPR\4-Semestre\Microcontroladores\ProjetoFinal\CódigoAssembly-ProjetoFinal\codigoteste.asm
+                  LOOPING   0x000024    program     static C:\Users\wturq\Desktop\UTFPR\4-Semestre\Microcontroladores\ProjetoFinal\CódigoAssembly-ProjetoFinal\codigoteste.asm
+             TUDOVERMELHO   0x000057    program     static C:\Users\wturq\Desktop\UTFPR\4-Semestre\Microcontroladores\ProjetoFinal\CódigoAssembly-ProjetoFinal\codigoteste.asm
+            ATIVAPEDESTRE   0x000063    program     static C:\Users\wturq\Desktop\UTFPR\4-Semestre\Microcontroladores\ProjetoFinal\CódigoAssembly-ProjetoFinal\codigoteste.asm
+             LOOPPEDESTRE   0x00006f    program     static C:\Users\wturq\Desktop\UTFPR\4-Semestre\Microcontroladores\ProjetoFinal\CódigoAssembly-ProjetoFinal\codigoteste.asm
+                  DELAY5S   0x000084    program     static C:\Users\wturq\Desktop\UTFPR\4-Semestre\Microcontroladores\ProjetoFinal\CódigoAssembly-ProjetoFinal\codigoteste.asm
+              DELAY5SLOOP   0x00008a    program     static C:\Users\wturq\Desktop\UTFPR\4-Semestre\Microcontroladores\ProjetoFinal\CódigoAssembly-ProjetoFinal\codigoteste.asm
+                DELAY100M   0x000094    program     static C:\Users\wturq\Desktop\UTFPR\4-Semestre\Microcontroladores\ProjetoFinal\CódigoAssembly-ProjetoFinal\codigoteste.asm
+                DELAYLOOP   0x000098    program     static C:\Users\wturq\Desktop\UTFPR\4-Semestre\Microcontroladores\ProjetoFinal\CódigoAssembly-ProjetoFinal\codigoteste.asm
+
+
