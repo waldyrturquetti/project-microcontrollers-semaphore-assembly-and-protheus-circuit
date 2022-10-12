@@ -9,7 +9,7 @@ semáforos dos veículos e pedestres.
 ## 2 PROPOSTA
 Assim como um cruzamento normal, os veículos podem seguir quando os 
 semáforos forem abertos, tanto em um sentido quanto no outro, porém só podem ir 
-em frente ou virarem a direita, desse modo os semáforos iram abrir de 2 em 2, e ai 
+em frente ou virarem a direita, desse modo os semáforos iram abrir de 2 em 2, e então 
 todos os semáforos de pedestres iram abrir simultaneamente após os 4 semáforos de 
 carro terem sido abertos.
 
