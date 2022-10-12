@@ -13,7 +13,7 @@ em frente ou virarem a direita, desse modo os semáforos iram abrir de 2 em 2, e
 todos os semáforos de pedestres iram abrir simultaneamente após os 4 semáforos de 
 carro terem sido abertos.
 
-## Circuito
+## 3 Circuito
 
 ![As I/O e o Oscilador do PIC_A](https://user-images.githubusercontent.com/44614612/195274321-912b4759-2735-4509-b9c3-b457bf0f979f.png)
 
