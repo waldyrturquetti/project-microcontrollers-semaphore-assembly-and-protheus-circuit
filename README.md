@@ -3,7 +3,7 @@ Esse trabalho em questão é referente a atividade pratica supervisionada da
 disciplina Microcontroladores, onde o objetivo é fazer uma aplicação utilizando a 
 linguagem Assembly do PIC16F877A e emular tal utilizando o Protheus.
 A aplicação desse trabalho em questão foi referente a um semáforo de 
-cruzamento para veículos e pedestres, utilizando delays e para a sincronia dos 
+cruzamento para veículos pedestres, utilizando delays e para a sincronia dos 
 semáforos dos veículos e pedestres.
 
 ## 2 PROPOSTA
