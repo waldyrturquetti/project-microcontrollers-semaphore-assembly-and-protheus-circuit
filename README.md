@@ -18,3 +18,10 @@ carro terem sido abertos.
 ![As I/O e o Oscilador do PIC_A](https://user-images.githubusercontent.com/44614612/195274321-912b4759-2735-4509-b9c3-b457bf0f979f.png)
 
 ![Os semáforos de Veículos e os de Pedestres](https://user-images.githubusercontent.com/44614612/195274445-ac1765db-503f-4554-b2b5-a7e25bcbf725.png)
+
+## 4 EXECUÇÃO
+
+https://user-images.githubusercontent.com/44614612/208269995-8b612df5-420c-414e-a00a-369a92e85e32.mp4
+
+
+
